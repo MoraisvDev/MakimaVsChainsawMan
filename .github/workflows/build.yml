@@ -1,1 +1,4 @@
+- name: Gerar EXE
+  run: pyinstaller --onefile --windowed MakimaVsChainsawMan
+
 
